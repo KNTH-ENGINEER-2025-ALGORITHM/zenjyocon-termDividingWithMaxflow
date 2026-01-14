@@ -145,6 +145,8 @@ public class MainWindow extends JFrame {
     }
 }
 /*
+参考:
 https://www.javadrive.jp/tutorial/jfilechooser/
 https://www.javadrive.jp/tutorial/boxlayout/
+
 */
